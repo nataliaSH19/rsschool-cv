@@ -30,4 +30,4 @@ Nothing yet…
 ***
 # English:
  B1 - Intermediate
-![certificate](/assets/img/MarineGEO_logo.png "Project 12 sertificate")
+![certificate](/assets/img/certificate.jpg "Project 12 sertificate")
