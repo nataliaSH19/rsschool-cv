@@ -16,4 +16,18 @@ Polite, stubborn in achieving the final result, positive, ready to perform the h
 - JavaScript ES6
 - Git
 - React
-- Module Bundlers: Gulp, Webpack.
+- Module Bundlers: Gulp, Webpack
+
+***
+
+## Education and courses:
+- Bachelor software engineering, IFNTUNG, Ivano-Frankivsk, Ukraine
+- Beetroot course(Front end developer)
+- [JavaScript](https://learn.javascript.ru/)
+- FreeCodeCamp
+## Work experience:
+Nothing yet…
+***
+# English:
+ B1 - Intermediate
+![certificate](/assets/img/MarineGEO_logo.png "Project 12 sertificate")
